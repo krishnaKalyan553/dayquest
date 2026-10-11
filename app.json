@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "habit-rewards-app",
+    "slug": "habit-rewards-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "habitrewards",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
